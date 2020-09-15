@@ -1,0 +1,139 @@
+LGTRTRUH Index,Treasuries
+LGCPTRUH Index,Corporate
+LGDRTRUH Index,Credit
+LUATTRUU Index,U.S. Treasury
+LUGCTRUU Index,U.S. Gov/Credit
+LUACTRUU Index,Corporate
+LUCRTRUU Index,U.S. Credit
+LEGATRUU Index,Global Aggregate
+LEGATRUH Index,Global Aggregate
+LGTRTRUU Index,Treasuries
+LGTRTRUH Index,Treasuries
+BGAGTRUH Index,Bloomberg Barclays Global Agg
+LGCPTRUU Index,Corporate
+LGCPTRUH Index,Corporate
+LGASTRUU Index,Securitized
+LGCITRUH Index,Industrial
+LGAUTRUH Index,Bloomberg Barclays Global Agg
+LGAFTRUH Index,Financial
+LGAUTRUU Index,Utility
+LGDRTRUU Index,Credit
+LC07TRUU Index,U.S. Universal
+LBUSTRUU Index,U.S. Aggregate
+LUATTRUU Index,U.S. Treasury
+LD08TRUU Index,Government-Related
+LUACTRUU Index,Corporate
+LD19TRUU Index,Securitized
+LUMSTRUU Index,U.S. MBS
+LUCMTRUU Index,CMBS
+LUABTRUU Index,ABS
+LUGCTRUU Index,U.S. Gov/Credit
+LP06TREU Index,Pan-Euro Aggregate
+LBEATREU Index,Euro-Aggregate
+LAPCTRJU Index,Asian-Pacific Aggregate
+LG30TRUU Index,Global High Yield
+LG30TRUH Index,Global High Yield
+LF98TRUU Index,US Corporate High Yield
+LP01TREU Index,Pan-European High Yield
+LP01TREH Index,Pan-European High Yield
+I31732US Index,EM USD High Yield
+LG20TRUU Index,EM Hard Currency Aggrega
+EMUSTRUU Index,EM USD Aggregate
+EMLCTRUU Index,EM Local Currency Govt
+I01551US Index,U.S. TIPS
+LF94TRUU Index,Global Inflation-Linked
+LMBITR Index,Municipal Bond Index
+BSELTRUU Index,EM USD LATAM
+BSEETRUU Index,EM USD EMEA
+BSEITRUU Index,EM USD Asia
+LCEMTRUU Index,EM Local Currency Govt U
+EMAMTRUU Index,EM Americas
+EMEUTRUU Index,EM EMEA
+LCE8TRUU Index,EM Asia
+JPEICORE Index,J.P. Morgan EMBI Global Core
+SPBDLL Index,SPLSTAUSLevgLn 100
+W0G1 Index,Global Government
+G0Q0 Index,US Treasury
+G0BC Index,Global Corporate
+C0A0 Index,US Corp
+HW00 Index,Global HY
+H0A0 Index,US High Yield
+H100 Index,US HY 100
+HP00 Index,European Currency HY
+EMUH Index,High Yield US EM Corp+
+ACHY Index,Asian USD HY Corp
+IGOV Index,USD BBB & Low Sov Ext D
+LDMP Index,Local Debt Market Plus
+HW10 Index,Global HY BB
+HW20 Index,Single-B Global High Yie
+HW30 Index,CCC & Lower Global High
+H0A1 Index,BB US High Yield
+H0A2 Index,B US Single High Yield
+H0A3 Index,CCC & Lower  US HY
+HP10 Index,BB European Currency Hig
+HP20 Index,Single-B European Curren
+HP30 Index,CCC & Lower European Cur
+IGDA Index,BB & Lower Asia Sovereig
+IGDE Index,BB & Lower EMEA Sovereig
+IGDL Index,BB & Lower Latin America
+LDMA Index,Asia Local Debt Mkts
+LDME Index,EMEA Local Debt Markets
+LDML Index,Latin America Local Debt
+G0QI Index,US  Inf-Lnk Treasury
+M0A0 Index,US Mtge Backed Security
+CMBS Index,CMBS US Fixed Rate
+CMBY Index,US Fixed Agency CMBS
+R0A0 Index,US FIXED ABS
+R0F0 Index,US Floating Rate Asset B
+CMOS Index,US Agency CMO
+G0P0 Index,US Agency
+VXA0 Index,US Conv Index
+H0FA Index,US Fallen Angel HY
+H0A0 Index,US High Yield
+H0BR Index,US HY Broadcast
+H0CV Index,US HY Cable
+H0ET Index,US HY Ent
+H0DM Index,US HY Div Media
+H0PU Index,US HY Publishing
+H0TY Index,US HY Tech
+H0TC Index,US HY Telecom
+H0CO Index,US HY Consumer Products
+H0FR Index,US HY Food&Drug Retail
+H0FO Index,US HY Food&Bvrage&Tobac
+H0AG Index,US High Yield Gaming
+H0HL Index,US High Yield Healthcare
+H0LE Index,US HY Leisure
+H0RE Index,US HY Rest
+H0SR Index,US HY Super Ret
+H0SE Index,US HY Services
+H0CH Index,US High Yield Chemicals
+H0CT Index,US HY Containers
+H0PA Index,US HY Paper
+H0RA Index,US HY Railroad
+H0SH Index,US Hy Trans ex Air
+H0AE Index,US High Yield Aerospace
+H0AI Index,US HY Air Transportat
+H0AU Index,US HY Automotive&AutoPa
+H0BL Index,US HY Building Material
+H0HB Index,US HY Homebuild
+H0EV Index,US HY Environmental
+H0EN Index,US High Yield Energy
+H0ME Index,US HY Metals
+H0ST Index,US HY Steel
+H0EL Index,US HY Utility
+H0CA Index,US HY Capital Goods
+H0IN Index,US HY Insurance
+H0AH Index,US High Yield Hotels
+H0FI Index,US HY Div Fina Services
+H0BA Index,US HY Banks & Thrifts
+GI00 Index,Global Corp & High Yield
+GIAU Index,Global Automotive
+GIBI Index,Global Basic Industry Ex
+GIBS Index,Global Basic Industry
+GICG Index,Global Capital Goods & B
+GICP Index,Global Capital Goods
+GIEN Index,Global Energy
+GIHC Index,Global Healthcare
+GIME Index,Global Media
+GIRE Index,Global Real Estate
+GITE Index,Global Technology & Elec
