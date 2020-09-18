@@ -1,4 +1,68 @@
-a,1
-b,2
-c,3
-d,4
+Code
+MAC<br>
+<input type="checkbox" id="NB收益成長多重資產(台幣)(TWD)" name="fund" value="ACNB15_"><label for="NB收益成長多重資產(台幣)(TWD)">NB收益成長多重資產(台幣)(TWD)</label><br>
+<input type="checkbox" id="NB收益成長多重資產(美元)(USD)" name="fund" value="ACNB19_"><label for="NB收益成長多重資產(美元)(USD)">NB收益成長多重資產(美元)(USD)</label><br>
+<input type="checkbox" id="安聯收益成長(境內)(TWD)" name="fund" value="ACDD74_"><label for="安聯收益成長(境內)(TWD)">安聯收益成長(境內)(TWD)</label><br>
+<input type="checkbox" id="安聯收益成長(USD)" name="fund" value="TLZ63_"><label for="安聯收益成長(USD)">安聯收益成長(USD)</label><br>
+<input type="checkbox" id="摩根多重收益基金(USD)" name="fund" value="JFZA6_"><label for="摩根多重收益基金(USD)">摩根多重收益基金(USD)</label><br>
+<input type="checkbox" id="摩根基金－環球債券收益(USD)" name="fund" value="JFZL3_"><label for="摩根基金－環球債券收益(USD)">摩根基金－環球債券收益(USD)</label><br>
+<input type="checkbox" id="富達全球多重資產收益(A股累計-美元)(USD)" name="fund" value="FTZU6_"><label for="富達全球多重資產收益(A股累計-美元)(USD)">富達全球多重資產收益(A股累計-美元)(USD)</label><br>
+<input type="checkbox" id="柏瑞多重資產特別收益(USD)" name="fund" value="ACAI189_"><label for="柏瑞多重資產特別收益(USD)">柏瑞多重資產特別收益(USD)</label><br>
+<input type="checkbox" id="貝萊德環球資產配置(USD)" name="fund" value="SHZB2_"><label for="貝萊德環球資產配置(USD)">貝萊德環球資產配置(USD)</label><br>
+<input type="checkbox" id="聯博-全球高收益債券基金 A2(USD)" name="fund" value="ALZ45_"><label for="聯博-全球高收益債券基金 A2(USD)">聯博-全球高收益債券基金 A2(USD)</label><br>
+<input type="checkbox" id="聯博多元資產收益組合基金(TWD)(TWD)" name="fund" value="ACTI22_"><label for="聯博多元資產收益組合基金(TWD)(TWD)">聯博多元資產收益組合基金(TWD)(TWD)</label><br>
+<input type="checkbox" id="聯博多元資產收益組合基金(USD)(USD)" name="fund" value="ACTI30_"><label for="聯博多元資產收益組合基金(USD)(USD)">聯博多元資產收益組合基金(USD)(USD)</label><br>
+<input type="checkbox" id="施羅德環球股債收息基金(USD)" name="fund" value="PYZL7_"><label for="施羅德環球股債收息基金(USD)">施羅德環球股債收息基金(USD)</label><br>
+<input type="checkbox" id="瀚亞投資-M＆G收益優化基金(USD)" name="fund" value="MMG42_"><label for="瀚亞投資-M＆G收益優化基金(USD)">瀚亞投資-M＆G收益優化基金(USD)</label><br>
+<input type="checkbox" id="摩根策略總報酬(EUR)" name="fund" value="JFZE7_"><label for="摩根策略總報酬(EUR)">摩根策略總報酬(EUR)</label><br>
+<input type="checkbox" id="安本標準360多重資產收益基金(USD)" name="fund" value="ACIB21_"><label for="安本標準360多重資產收益基金(USD)">安本標準360多重資產收益基金(USD)</label><br>
+<br>HYB<br>
+<input type="checkbox" id="聯博-全球高收益債券基金 A2(USD)" name="fund" value="ALZ45_"><label for="聯博-全球高收益債券基金 A2(USD)">聯博-全球高收益債券基金 A2(USD)</label><br>
+<input type="checkbox" id="摩根富林明環球高收益債券基金(美元)(USD)" name="fund" value="JFZ88_"><label for="摩根富林明環球高收益債券基金(美元)(USD)">摩根富林明環球高收益債券基金(美元)(USD)</label><br>
+<input type="checkbox" id="野村美國高收益債券基金(I)(USD)" name="fund" value="NFI01_"><label for="野村美國高收益債券基金(I)(USD)">野村美國高收益債券基金(I)(USD)</label><br>
+<input type="checkbox" id="NN(L)環球高收益(USD)" name="fund" value="ANZ90_"><label for="NN(L)環球高收益(USD)">NN(L)環球高收益(USD)</label><br>
+<input type="checkbox" id="鋒裕匯理美國高收益(USD)" name="fund" value="PIZ21_"><label for="鋒裕匯理美國高收益(USD)">鋒裕匯理美國高收益(USD)</label><br>
+<input type="checkbox" id="駿利高收益(USD)" name="fund" value="JAZ05_"><label for="駿利高收益(USD)">駿利高收益(USD)</label><br>
+<input type="checkbox" id="瀚亞美國高收益債券(USD)" name="fund" value="IOF05_"><label for="瀚亞美國高收益債券(USD)">瀚亞美國高收益債券(USD)</label><br>
+<input type="checkbox" id="富蘭克林坦伯頓公司債(USD)" name="fund" value="FLZ41_"><label for="富蘭克林坦伯頓公司債(USD)">富蘭克林坦伯頓公司債(USD)</label><br>
+<input type="checkbox" id="貝萊德美元高收益債券基金 A2(USD)" name="fund" value="SHZ81_"><label for="貝萊德美元高收益債券基金 A2(USD)">貝萊德美元高收益債券基金 A2(USD)</label><br>
+<br>EMDLC<br>
+<input type="checkbox" id="NB新興市場本地貨幣債券T股(USD)" name="fund" value="NBTC4_"><label for="NB新興市場本地貨幣債券T股(USD)">NB新興市場本地貨幣債券T股(USD)</label><br>
+<input type="checkbox" id="NB新興市場本地貨幣債券I股(USD)" name="fund" value="NBTB8_"><label for="NB新興市場本地貨幣債券I股(USD)">NB新興市場本地貨幣債券I股(USD)</label><br>
+<input type="checkbox" id="NB新興市場本地貨幣短存續期債券(USD)" name="fund" value="_"><label for="NB新興市場本地貨幣短存續期債券(USD)">NB新興市場本地貨幣短存續期債券(USD)</label><br>
+<input type="checkbox" id="富蘭克林新興國家固定收益(USD)" name="fund" value="FLZC2_"><label for="富蘭克林新興國家固定收益(USD)">富蘭克林新興國家固定收益(USD)</label><br>
+<input type="checkbox" id="富蘭克林新興國家固定收益(境內)(USD)" name="fund" value="ACFT96_"><label for="富蘭克林新興國家固定收益(境內)(USD)">富蘭克林新興國家固定收益(境內)(USD)</label><br>
+<input type="checkbox" id="鋒裕匯理新興市場當地貨幣債(USD)" name="fund" value="PIZB6_"><label for="鋒裕匯理新興市場當地貨幣債(USD)">鋒裕匯理新興市場當地貨幣債(USD)</label><br>
+<input type="checkbox" id="先機新興市場本地貨幣債券(USD)" name="fund" value="SGF72_"><label for="先機新興市場本地貨幣債券(USD)">先機新興市場本地貨幣債券(USD)</label><br>
+<input type="checkbox" id="摩根新興市場本地貨幣債券(USD)" name="fund" value="JFH47_"><label for="摩根新興市場本地貨幣債券(USD)">摩根新興市場本地貨幣債券(USD)</label><br>
+<input type="checkbox" id="天達新興市場當地貨幣債(USD)" name="fund" value="GSF27_"><label for="天達新興市場當地貨幣債(USD)">天達新興市場當地貨幣債(USD)</label><br>
+<input type="checkbox" id="英傑華新興市場當地貨幣債(EUR)" name="fund" value="_"><label for="英傑華新興市場當地貨幣債(EUR)">英傑華新興市場當地貨幣債(EUR)</label><br>
+<input type="checkbox" id="柏瑞環球新興市場當地貨幣債(USD)" name="fund" value="AIZ61_"><label for="柏瑞環球新興市場當地貨幣債(USD)">柏瑞環球新興市場當地貨幣債(USD)</label><br>
+<input type="checkbox" id="法巴百利達新興市場當地貨幣債(USD)" name="fund" value="FLF69_"><label for="法巴百利達新興市場當地貨幣債(USD)">法巴百利達新興市場當地貨幣債(USD)</label><br>
+<input type="checkbox" id="貝萊德新興市場本地貨幣債券(USD)" name="fund" value="SHZJ3_"><label for="貝萊德新興市場本地貨幣債券(USD)">貝萊德新興市場本地貨幣債券(USD)</label><br>
+<input type="checkbox" id="NN(L)新興市場本地債券(USD)" name="fund" value="_"><label for="NN(L)新興市場本地債券(USD)">NN(L)新興市場本地債券(USD)</label><br>
+<br>EMDHC<br>
+<input type="checkbox" id="鋒裕新興市場債(USD)" name="fund" value="PIZA4_"><label for="鋒裕新興市場債(USD)">鋒裕新興市場債(USD)</label><br>
+<input type="checkbox" id="NN(L)新興市場債券(USD)" name="fund" value="ANZA3_"><label for="NN(L)新興市場債券(USD)">NN(L)新興市場債券(USD)</label><br>
+<br>IG<br>
+<input type="checkbox" id="NB 優質企業債券基金(TWD)" name="fund" value="ACNB57_"><label for="NB 優質企業債券基金(TWD)">NB 優質企業債券基金(TWD)</label><br>
+<input type="checkbox" id="NB 優質企業債券基金(TWD)" name="fund" value="ACNB57_"><label for="NB 優質企業債券基金(TWD)">NB 優質企業債券基金(TWD)</label><br>
+<input type="checkbox" id="摩根基金－環球債券收益(USD)" name="fund" value="JFZL3_"><label for="摩根基金－環球債券收益(USD)">摩根基金－環球債券收益(USD)</label><br>
+<input type="checkbox" id="保德信美國投資級企業債券基金(TWD)" name="fund" value="ACML67_"><label for="保德信美國投資級企業債券基金(TWD)">保德信美國投資級企業債券基金(TWD)</label><br>
+<input type="checkbox" id="野村全球金融收益基金(TWD)" name="fund" value="ACKH113_"><label for="野村全球金融收益基金(TWD)">野村全球金融收益基金(TWD)</label><br>
+<input type="checkbox" id="群益全球策略收益金融債券基金(TWD)" name="fund" value="ACCA240_"><label for="群益全球策略收益金融債券基金(TWD)">群益全球策略收益金融債券基金(TWD)</label><br>
+<input type="checkbox" id="群益全球策略收益金融債券基金(USD)(USD)" name="fund" value="ACCA244_"><label for="群益全球策略收益金融債券基金(USD)(USD)">群益全球策略收益金融債券基金(USD)(USD)</label><br>
+<input type="checkbox" id="摩根基金－複合收益債券(USD)" name="fund" value="JFZJ1_"><label for="摩根基金－複合收益債券(USD)">摩根基金－複合收益債券(USD)</label><br>
+<input type="checkbox" id="第一金美國100大企業債券基金(TWD)" name="fund" value="ACNC105_"><label for="第一金美國100大企業債券基金(TWD)">第一金美國100大企業債券基金(TWD)</label><br>
+<input type="checkbox" id="第一金美國100大企業債券基金(TWD)" name="fund" value="ACNC105_"><label for="第一金美國100大企業債券基金(TWD)">第一金美國100大企業債券基金(TWD)</label><br>
+<input type="checkbox" id="新光全球債券基金(USD)" name="fund" value="ACTS51_"><label for="新光全球債券基金(USD)">新光全球債券基金(USD)</label><br>
+<input type="checkbox" id="保德信PGIM美國公司債基金(USD)" name="fund" value="PGI02_"><label for="保德信PGIM美國公司債基金(USD)">保德信PGIM美國公司債基金(USD)</label><br>
+<input type="checkbox" id="NN(L)投資級公司債(USD)" name="fund" value="ANZ84_"><label for="NN(L)投資級公司債(USD)">NN(L)投資級公司債(USD)</label><br>
+<br>SI<br>
+<input type="checkbox" id="摩根基金－環球債券收益(USD)" name="fund" value="JFZL3_"><label for="摩根基金－環球債券收益(USD)">摩根基金－環球債券收益(USD)</label><br>
+<input type="checkbox" id="鋒裕匯理策略收益債券(USD)" name="fund" value="PIZ40_"><label for="鋒裕匯理策略收益債券(USD)">鋒裕匯理策略收益債券(USD)</label><br>
+<input type="checkbox" id="鋒裕匯理美元綜合債券(USD)" name="fund" value="PIZ93_"><label for="鋒裕匯理美元綜合債券(USD)">鋒裕匯理美元綜合債券(USD)</label><br>
+<input type="checkbox" id="聯博-美國收益基金(USD)" name="fund" value="ALZ10_"><label for="聯博-美國收益基金(USD)">聯博-美國收益基金(USD)</label><br>
+<input type="checkbox" id="PIMCO多元收益債券基金-E 級類別(收息股份)(USD)" name="fund" value="PIM28_"><label for="PIMCO多元收益債券基金-E 級類別(收息股份)(USD)">PIMCO多元收益債券基金-E 級類別(收息股份)(USD)</label><br>
+<input type="checkbox" id="PIMCO總回報債券基金-E 級類別(收息股份)(USD)" name="fund" value="PIM32_"><label for="PIMCO總回報債券基金-E 級類別(收息股份)(USD)">PIMCO總回報債券基金-E 級類別(收息股份)(USD)</label><br>
+<input type="checkbox" id="摩根富林明美國複合收益基金(USD)" name="fund" value="JFZ75_"><label for="摩根富林明美國複合收益基金(USD)">摩根富林明美國複合收益基金(USD)</label><br>
