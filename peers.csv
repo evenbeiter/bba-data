@@ -66,3 +66,52 @@ MAC<br>
 <input type="checkbox" id="PIMCO多元收益債券基金-E 級類別(收息股份)(USD)" name="fund" value="PIM28_"><label for="PIMCO多元收益債券基金-E 級類別(收息股份)(USD)">PIMCO多元收益債券基金-E 級類別(收息股份)(USD)</label><br>
 <input type="checkbox" id="PIMCO總回報債券基金-E 級類別(收息股份)(USD)" name="fund" value="PIM32_"><label for="PIMCO總回報債券基金-E 級類別(收息股份)(USD)">PIMCO總回報債券基金-E 級類別(收息股份)(USD)</label><br>
 <input type="checkbox" id="摩根富林明美國複合收益基金(USD)" name="fund" value="JFZ75_"><label for="摩根富林明美國複合收益基金(USD)">摩根富林明美國複合收益基金(USD)</label><br>
+<br>EME<br>
+<input type="checkbox" id="NB新興市場股票基金(USD)" name="fund" value="NBTF0_"><label for="NB新興市場股票基金(USD)">NB新興市場股票基金(USD)</label><br>
+<input type="checkbox" id="富達新興市場基金(USD)" name="fund" value="FTZ02_"><label for="富達新興市場基金(USD)">富達新興市場基金(USD)</label><br>
+<input type="checkbox" id="聯博-新興市場成長基金(USD)" name="fund" value="ALZ05_"><label for="聯博-新興市場成長基金(USD)">聯博-新興市場成長基金(USD)</label><br>
+<input type="checkbox" id="貝萊德新興市場基金(USD)" name="fund" value="SHZ16_"><label for="貝萊德新興市場基金(USD)">貝萊德新興市場基金(USD)</label><br>
+<input type="checkbox" id="霸菱全球新興市場基金(USD)" name="fund" value="PLZ07_"><label for="霸菱全球新興市場基金(USD)">霸菱全球新興市場基金(USD)</label><br>
+<input type="checkbox" id="安本環球新興市場股票基金(USD)" name="fund" value="ANZ45_"><label for="安本環球新興市場股票基金(USD)">安本環球新興市場股票基金(USD)</label><br>
+<input type="checkbox" id="德盛安聯全球新興市場基金(TWD)" name="fund" value="ACDD10_"><label for="德盛安聯全球新興市場基金(TWD)">德盛安聯全球新興市場基金(TWD)</label><br>
+<input type="checkbox" id="安本環球新興市場小型公司基金  (USD)" name="fund" value="ANH16_"><label for="安本環球新興市場小型公司基金  (USD)">安本環球新興市場小型公司基金  (USD)</label><br>
+<input type="checkbox" id="摩根富林明新興市場小型企業基金(USD)" name="fund" value="JFZ95_"><label for="摩根富林明新興市場小型企業基金(USD)">摩根富林明新興市場小型企業基金(USD)</label><br>
+<br>US<br>
+<input type="checkbox" id="NB美國多元企業(USD)" name="fund" value="NBT74_"><label for="NB美國多元企業(USD)">NB美國多元企業(USD)</label><br>
+<input type="checkbox" id="富蘭克林坦伯頓美國機會(USD)" name="fund" value="FLZ94_"><label for="富蘭克林坦伯頓美國機會(USD)">富蘭克林坦伯頓美國機會(USD)</label><br>
+<input type="checkbox" id="富蘭克林潛力組合(USD)" name="fund" value="FLZ02_"><label for="富蘭克林潛力組合(USD)">富蘭克林潛力組合(USD)</label><br>
+<input type="checkbox" id="先機北美股票(USD)" name="fund" value="SGF28_"><label for="先機北美股票(USD)">先機北美股票(USD)</label><br>
+<input type="checkbox" id="貝萊德美國靈活股票(USD)" name="fund" value="SHZF2_"><label for="貝萊德美國靈活股票(USD)">貝萊德美國靈活股票(USD)</label><br>
+<br>USSC<br>
+<input type="checkbox" id="NB美國小型企業(USD)" name="fund" value="NBT04_"><label for="NB美國小型企業(USD)">NB美國小型企業(USD)</label><br>
+<input type="checkbox" id="施羅德美國小型公司(USD)" name="fund" value="PYZ31_"><label for="施羅德美國小型公司(USD)">施羅德美國小型公司(USD)</label><br>
+<input type="checkbox" id="駿利美國創業(USD)" name="fund" value="JAZ33_"><label for="駿利美國創業(USD)">駿利美國創業(USD)</label><br>
+<input type="checkbox" id="摩根美國小型企業(USD)" name="fund" value="JFZF8_"><label for="摩根美國小型企業(USD)">摩根美國小型企業(USD)</label><br>
+<input type="checkbox" id="法巴百利達美國小型股票(USD)" name="fund" value="FLF88_"><label for="法巴百利達美國小型股票(USD)">法巴百利達美國小型股票(USD)</label><br>
+<br>5G<br>
+<input type="checkbox" id="NB 5G (USD)" name="fund" value="ACNB49_"><label for="NB 5G (USD)">NB 5G (USD)(USD)</label><br>
+<input type="checkbox" id="NB 5G (TWD)" name="fund" value="ACNB47_"><label for="NB 5G (TWD)">NB 5G (TWD)(TWD)</label><br>
+<input type="checkbox" id="元大未來通訊 ETF(TWD)" name="fund" value="ACYT158_"><label for="元大未來通訊 ETF(TWD)">元大未來通訊 ETF(TWD)</label><br>
+<input type="checkbox" id="5G ETF(USD)" name="fund" value="FIVG_"><label for="5G ETF(USD)">5G ETF(USD)</label><br>
+<input type="checkbox" id="5G (NXTG) ETF(USD)" name="fund" value="NXTG_"><label for="5G (NXTG) ETF(USD)">5G (NXTG) ETF(USD)</label><br>
+<input type="checkbox" id="百達智慧城市(USD)" name="fund" value="PIC26_"><label for="百達智慧城市(USD)">百達智慧城市(USD)</label><br>
+<input type="checkbox" id="第一金全球AI人工智慧基金(USD)" name="fund" value="ACNC99_"><label for="第一金全球AI人工智慧基金(USD)">第一金全球AI人工智慧基金(USD)</label><br>
+<input type="checkbox" id="元大全球人工智慧ETF基金(TWD)" name="fund" value="ACYT146_"><label for="元大全球人工智慧ETF基金(TWD)">元大全球人工智慧ETF基金(TWD)</label><br>
+<input type="checkbox" id="國泰趨勢ETF傘型納斯達克全球人工智慧及機器人基金(TWD)" name="fund" value="ACTR36_"><label for="國泰趨勢ETF傘型納斯達克全球人工智慧及機器人基金(TWD)">國泰趨勢ETF傘型納斯達克全球人工智慧及機器人基金(TWD)</label><br>
+<input type="checkbox" id="第一金全球AI機器人及自動化產業基金(USD)" name="fund" value="ACNC57_"><label for="第一金全球AI機器人及自動化產業基金(USD)">第一金全球AI機器人及自動化產業基金(USD)</label><br>
+<input type="checkbox" id="安聯AI人工智慧基金(USD)" name="fund" value="TLH43_"><label for="安聯AI人工智慧基金(USD)">安聯AI人工智慧基金(USD)</label><br>
+<input type="checkbox" id="百達-機器人科技(USD)" name="fund" value="PIC50_"><label for="百達-機器人科技(USD)">百達-機器人科技(USD)</label><br>
+<input type="checkbox" id="華南永昌物聯網精選基金(TWD)" name="fund" value="ACYC43_"><label for="華南永昌物聯網精選基金(TWD)">華南永昌物聯網精選基金(TWD)</label><br>
+<input type="checkbox" id="華南永昌MSCI全球特選物聯網指數基金(USD)" name="fund" value="ACYC45_"><label for="華南永昌MSCI全球特選物聯網指數基金(USD)">華南永昌MSCI全球特選物聯網指數基金(USD)</label><br>
+<input type="checkbox" id="復華全球物聯網科技基金(USD)" name="fund" value="_"><label for="復華全球物聯網科技基金(USD)">復華全球物聯網科技基金(USD)</label><br>
+<input type="checkbox" id="中國信託智慧城市建設基金(USD)" name="fund" value="ACDS60_"><label for="中國信託智慧城市建設基金(USD)">中國信託智慧城市建設基金(USD)</label><br>
+<input type="checkbox" id="第一金全球AI精準醫療基金(USD)" name="fund" value="ACNC95_"><label for="第一金全球AI精準醫療基金(USD)">第一金全球AI精準醫療基金(USD)</label><br>
+<br>REIT<br>
+<input type="checkbox" id="NB美國房地產(USD)" name="fund" value="NBT25_"><label for="NB美國房地產(USD)">NB美國房地產(USD)</label><br>
+<input type="checkbox" id="摩根士丹利美國房地產(USD)" name="fund" value="MST06_"><label for="摩根士丹利美國房地產(USD)">摩根士丹利美國房地產(USD)</label><br>
+<input type="checkbox" id="富蘭克林坦伯頓全球房地產(USD)" name="fund" value="FLH29_"><label for="富蘭克林坦伯頓全球房地產(USD)">富蘭克林坦伯頓全球房地產(USD)</label><br>
+<input type="checkbox" id="聯博全球不動產證券(USD)" name="fund" value="ALZ17_"><label for="聯博全球不動產證券(USD)">聯博全球不動產證券(USD)</label><br>
+<input type="checkbox" id="台新北美收益資產證券化(TWD)" name="fund" value="ACTC15_"><label for="台新北美收益資產證券化(TWD)">台新北美收益資產證券化(TWD)</label><br>
+<input type="checkbox" id="元大全球不動產證券化(TWD)" name="fund" value="ACKY1901_"><label for="元大全球不動產證券化(TWD)">元大全球不動產證券化(TWD)</label><br>
+<input type="checkbox" id="台新全球不動產入息(TWD)" name="fund" value="ACTT26_"><label for="台新全球不動產入息(TWD)">台新全球不動產入息(TWD)</label><br>
+<input type="checkbox" id="野村全球不動產證券化(TWD)" name="fund" value="ACIC15_"><label for="野村全球不動產證券化(TWD)">野村全球不動產證券化(TWD)</label><br>
